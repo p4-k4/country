@@ -1,10 +1,14 @@
 library country;
 
-import 'src/models/country.dart';
+import 'package:country_query/src/models/country.dart';
 import 'package:country_query/src/models/city.dart';
 import 'package:country_query/src/models/state.dart';
 
 import 'src/country_base.dart';
+
+export 'src/models/city.dart';
+export 'src/models/country.dart';
+export 'src/models/state.dart';
 
 List<T> _query<T>(
     List<T> objects, Iterable<T> Function(List<T> objects) query) {
