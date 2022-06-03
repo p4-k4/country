@@ -1,8 +1,8 @@
 library country;
 
 import 'src/models/country.dart';
-import 'package:country/src/models/city.dart';
-import 'package:country/src/models/state.dart';
+import 'package:country_query/src/models/city.dart';
+import 'package:country_query/src/models/state.dart';
 
 import 'src/country_base.dart';
 

@@ -1,4 +1,4 @@
-# Country
+# country_query
 
 Query and retrieve country details by property type from a database of 250 countries.
 - Total Countries : 250 
@@ -11,6 +11,7 @@ Query and retrieve country details by property type from a database of 250 count
 
 - Async queries by substring
 - Enables builtin fuzzy search.
+- Works offline
 
 
 ## Usage - `Countries`
