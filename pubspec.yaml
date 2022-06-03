@@ -9,8 +9,6 @@ environment:
 
 dependencies:
   collection: ^1.16.0
-  fpdart:
-    path: /Users/paka/dev/fpdart
 
 dev_dependencies:
   lints: ^2.0.0
