@@ -1,8 +1,8 @@
 name: country
-description: A starting point for Dart libraries or applications.
+description: Query and retrieve country details by property type from a database of 250 countries.
 version: 1.0.0
 publish_to: none
-# homepage: https://www.example.com
+homepage: https://github.com/p4-k4/country
 
 environment:
   sdk: '>=2.17.1 <3.0.0'
